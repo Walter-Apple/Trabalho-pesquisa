@@ -1,5 +1,9 @@
 # Trabalho-pesquisa
 
+(link bem ultil)
+https://profsalu.wordpress.com/wp-content/uploads/2018/08/3-unity-3d-programac3a7c3a3o01.pdf
+pag 6 a 9
+
 <h1>Mathf:</h1>
 
 <h2>Approximately</h2>
@@ -29,4 +33,25 @@ Porque bastaria colocar o Input que varia de 1 e -1, nesse Mathf e ele retornari
 <h3>Esta função é usada para limitar algum cálculo entre valores específicos que você determinar.
 Caso você precisa que determinado resultado não saia de -4 e 4, ou 5 e 25, por exemplo, você pode usar o Clamp.
 E um uso comum, seria em jogos que precise limitar a movimentação do player dentro de uma área.</h3>
+
+<h2>Sign</h2>
+<h3>Esta função nos retorna 1 caso o valor seja maior ou igual a 0, e -1 caso o valor seja menor que 0.
+Podendo ser muito útil para descobrir se os valores retornados em algum cálculo, estão positivos ou negativos.</h3>
+
+<h2>DeltaAngle</h2>
+<h3>Esta função nos retorna o menor angulo existente entre 2 ângulos que você queira calcular.
+Este comando pode ser usado para calcular a trajetória de bullets, ou objetos arremessáveis em seu jogo.</h3>
+
+
+
+
+
+
+
+<h1>Física:</h1>
+
+<h2>https://docs.unity3d.com/Packages/com.unity.physics@0.51/manual/collision_queries.html</h2>
+(Link Ultil)
+
+
 
